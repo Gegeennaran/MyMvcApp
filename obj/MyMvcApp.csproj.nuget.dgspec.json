@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gegeenee/MyMvcApp/MyMvcApp.csproj": {}
+    "/Users/gegeenee/MyMvcApp copy/MyMvcApp.csproj": {}
   },
   "projects": {
-    "/Users/gegeenee/MyMvcApp/MyMvcApp.csproj": {
+    "/Users/gegeenee/MyMvcApp copy/MyMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gegeenee/MyMvcApp/MyMvcApp.csproj",
+        "projectUniqueName": "/Users/gegeenee/MyMvcApp copy/MyMvcApp.csproj",
         "projectName": "MyMvcApp",
-        "projectPath": "/Users/gegeenee/MyMvcApp/MyMvcApp.csproj",
+        "projectPath": "/Users/gegeenee/MyMvcApp copy/MyMvcApp.csproj",
         "packagesPath": "/Users/gegeenee/.nuget/packages/",
-        "outputPath": "/Users/gegeenee/MyMvcApp/obj/",
+        "outputPath": "/Users/gegeenee/MyMvcApp copy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gegeenee/.nuget/NuGet/NuGet.Config"

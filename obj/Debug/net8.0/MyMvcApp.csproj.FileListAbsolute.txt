@@ -30,3 +30,36 @@
 /Users/gegeenee/MyMvcApp/obj/Debug/net8.0/ref/MyMvcApp.dll
 /Users/gegeenee/MyMvcApp/bin/Debug/net8.0/package-lock.json
 /Users/gegeenee/MyMvcApp/bin/Debug/net8.0/package.json
+/Users/gegeenee/MyMvcApp copy/bin/Debug/net8.0/appsettings.Development.json
+/Users/gegeenee/MyMvcApp copy/bin/Debug/net8.0/appsettings.json
+/Users/gegeenee/MyMvcApp copy/bin/Debug/net8.0/package-lock.json
+/Users/gegeenee/MyMvcApp copy/bin/Debug/net8.0/package.json
+/Users/gegeenee/MyMvcApp copy/bin/Debug/net8.0/MyMvcApp.staticwebassets.runtime.json
+/Users/gegeenee/MyMvcApp copy/bin/Debug/net8.0/MyMvcApp
+/Users/gegeenee/MyMvcApp copy/bin/Debug/net8.0/MyMvcApp.deps.json
+/Users/gegeenee/MyMvcApp copy/bin/Debug/net8.0/MyMvcApp.runtimeconfig.json
+/Users/gegeenee/MyMvcApp copy/bin/Debug/net8.0/MyMvcApp.dll
+/Users/gegeenee/MyMvcApp copy/bin/Debug/net8.0/MyMvcApp.pdb
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/MyMvcApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/MyMvcApp.AssemblyInfoInputs.cache
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/MyMvcApp.AssemblyInfo.cs
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/MyMvcApp.csproj.CoreCompileInputs.cache
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/MyMvcApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/MyMvcApp.RazorAssemblyInfo.cache
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/MyMvcApp.RazorAssemblyInfo.cs
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/MyMvcApp.sourcelink.json
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/staticwebassets.build.json
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/staticwebassets.development.json
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/staticwebassets/msbuild.MyMvcApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/staticwebassets/msbuild.build.MyMvcApp.props
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyMvcApp.props
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyMvcApp.props
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/scopedcss/bundle/MyMvcApp.styles.css
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/scopedcss/projectbundle/MyMvcApp.bundle.scp.css
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/MyMvcApp.dll
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/refint/MyMvcApp.dll
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/MyMvcApp.pdb
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/MyMvcApp.genruntimeconfig.cache
+/Users/gegeenee/MyMvcApp copy/obj/Debug/net8.0/ref/MyMvcApp.dll
