@@ -1,0 +1,45 @@
+<!-- Gegeennaran Enkhtuvshin
+section 003-->
+
+@{ //setting dynamic page title
+    ViewData["Title"] = "My Hobby - Painting";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- a favicon (custom icon) for the browser tab -->
+    <link rel="icon" href="~/images/favicon.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+<header>
+    <!-- Main heading of the page -->
+    <h1>My Painting Hobby</h1>
+</header>
+
+<main>
+    <section>
+        <!-- Images and texts-->
+
+        <img src="~/images/image1.jpeg" alt=" Image 1">
+        <p>I have been passionate about painting since childhood.
+            Capturing moments, playing with colors, and telling stories through paintings is what I love. When I paint, I lose track of time and can focus deeply.</p>
+        <img src="~/images/image2.jpeg" alt=" Image 2">
+        <p>This is the painting of my childhood dog. He died two years ago. I was very sad but decided to paint him the way I always see and remember him - cheerful, happy dog with a vibrant personality and the purest soul. Painting helps me heal when I get to paint something personal to me like feelings or something I love deeply. </p>
+        <img src="~/images/image3.jpeg" alt=" Image 3">
+        <p>This is my recent project that I haven't quite finished yet. This is the depiction of one of the mountains in Grand Teton National Park. This place is one of my favorite place to visit on earth. The nature there is so beautiful and magnificent. </p>
+
+    </section>
+    
+    <nav>
+        <!-- Navigation link to go to the calculator page -->
+        <a href="@Url.Action("Calculator", "Home")">Calculate My Tutoring Fees</a>
+    </nav>
+</main>
+
+</body>
+</html>

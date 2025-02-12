@@ -1,0 +1,44 @@
+@{ //page title
+    ViewData["Title"] = "Tutoring Fee Calculator";
+}
+<!-- Calculator page -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- a favicon (custom icon) for the browser tab -->
+    <link rel="icon" href="~/images/favicon.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css">
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/js/calculator.js"></script>
+</head>
+<body>
+<header>
+    <h1>Tutoring Fee Calculator</h1>
+</header>
+
+<main>
+    <section>
+        <!-- User inputs: number of hours -->
+        <label for="hours">Enter Hours:</label>
+        <input type="number" id="hours" min="1" required>
+        
+        <!-- Hourly rate is pre-defined and read-only -->
+        <label for="rate">Hourly Rate ($):</label>
+        <input type="number" id="rate" value="15" readonly>
+
+        <button id="calculateBtn">Calculate</button>
+
+        <p>Total Cost: $<span id="totalCost">0.00</span></p>
+    </section>
+
+    <nav>
+        <a href="@Url.Action("Index", "Home")">Back to Home</a>
+    </nav>
+</main>
+
+</body>
+</html>

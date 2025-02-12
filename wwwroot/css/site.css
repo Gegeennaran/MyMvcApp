@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 15px 0;
+}
+
+main {
+  padding: 20px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  margin: 10px;
+}
+
+nav {
+  margin-top: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: darkgreen;
+  color: white;
+  border-radius: 5px;
+}
+
+footer {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #333;
+  color: white;
+}
+
+p {
+  text-align: justify;
+}
+
+nav ul li {
+  margin-right: 15px; /* Increase space between buttons */
+}
+
+.navbar {
+  background-color: transparent !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+a:hover {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
